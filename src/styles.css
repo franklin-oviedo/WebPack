@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    background-color: dimgray;
+}
+
+img {
+    width: 500px;
+    padding-left: 20px;
+}
